@@ -1,0 +1,11 @@
+first_name,last_name,sex,mobile,dob,email,partner_included,partner_first,partner_last,department,doctor,date,time_slot,reason,summary,created_at,name,phone,preference,type
+patty,patte,female,9900332334,09/09/1998,sagarpatil@pqr.com,False,poew,eeqwe,Counselling,Dr. Kavita Rao,09/10/2025,2:30 PM,sdasdasf,Appointment booked via chatbot,2025-10-19T01:43:56.340019,,,,
+patty,patte,female,9900332334,09/09/1998,sagarpatil@pqr.com,False,poew,eeqwe,Counselling,Dr. Kavita Rao,09/10/2025,2:30 PM,sdasdasf,Appointment booked via chatbot,,,,,
+patty,patte,female,9900332334,09/09/1998,sagarpatil@pqr.com,False,poew,eeqwe,Counselling,Dr. Kavita Rao,09/10/2025,2:30 PM,sdasdasf,Appointment booked via chatbot,2025-10-19T01:43:59.705244,,,,
+patty,patte,female,9900332334,09/09/1998,sagarpatil@pqr.com,False,poew,eeqwe,Counselling,Dr. Kavita Rao,09/10/2025,2:30 PM,sdasdasf,Appointment booked via chatbot,,,,,
+,,,,,,,,,,,,,,,2025-10-19T02:18:34.424908,Sagar Patil,8087700343.0,Video Consultation,expert_callback
+Dada,Baba,male,00999498543,09/09/1996,sagar8@abc.com,False,POOP,sa@g.com,Andrology,Dr. Rohit Verma,09/09/2028,12:30 PM,sadafsdg dfs fd,Appointment booked via chatbot,2025-10-20T02:42:40.707939,,,,
+Dada,Baba,male,00999498543,09/09/1996,sagar8@abc.com,False,POOP,sa@g.com,Andrology,Dr. Rohit Verma,09/09/2028,12:30 PM,sadafsdg dfs fd,Appointment booked via chatbot,,,,,
+sauuee,sadasd,male,989343534,9/9/1995,sasd@xyz.com,False,sadsa,sadasd,Andrology,Dr. Sanjay Gupta,25/10/2025,2:30 PM,dasfdf sdf,Appointment booked via chatbot,2025-10-20T14:23:08.292011,,,,
+sauuee,sadasd,male,989343534,9/9/1995,sasd@xyz.com,False,sadsa,sadasd,Andrology,Dr. Sanjay Gupta,25/10/2025,2:30 PM,dasfdf sdf,Appointment booked via chatbot,,,,,
+,,,,,dfs,,,,,,,,,,2025-10-20T14:24:48.553085,sadasd,534456657,Video Consultation,expert_callback
