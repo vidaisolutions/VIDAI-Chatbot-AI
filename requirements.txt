@@ -1,0 +1,9 @@
+streamlit
+fastapi
+uvicorn
+pandas
+requests
+python-dotenv
+euriai
+pydantic
+python-multipart
